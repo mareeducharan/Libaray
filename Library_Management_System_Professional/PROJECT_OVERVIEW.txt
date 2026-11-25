@@ -1,0 +1,7 @@
+LIBRARY MANAGEMENT SYSTEM
+Professional Python GUI Project | Semester 3 | 10 Marks
+Student: MAREEDU CHARAN
+
+Run the project: python main.py
+Technology: Python + Tkinter + SQLite
+Read README.md for complete instructions.

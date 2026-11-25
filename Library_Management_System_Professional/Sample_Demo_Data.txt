@@ -1,0 +1,36 @@
+SAMPLE DEMONSTRATION DATA
+
+Add these records manually through the application.
+
+BOOK 1
+Title: Python Programming
+Author: Reema Thareja
+Category: Programming
+ISBN: 9789351199076
+Copies: 3
+
+BOOK 2
+Title: Let Us C
+Author: Yashavant Kanetkar
+Category: Programming
+ISBN: 9788183331630
+Copies: 2
+
+MEMBER 1
+Name: Aarav Patel
+Class: EN3
+Phone: 9876543210
+Email: aarav@example.com
+
+MEMBER 2
+Name: Diya Shah
+Class: EN3
+Phone: 9876501234
+Email: diya@example.com
+
+DEMONSTRATION
+1. Add both books.
+2. Add both members.
+3. Issue Python Programming to Aarav Patel.
+4. Return the book to demonstrate return handling.
+5. Open Reports and export the issue history.
